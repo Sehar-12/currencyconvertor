@@ -26,3 +26,7 @@ Open the index.html file in any modern web browser.
 Enter the amount you wish to convert.
 Select the source and target currencies from the dropdown menus.
 Click the "Convert" button to see the converted amount.
+
+## Demo of the project :
+https://sehar-12.github.io/currencyconvertor/
+
